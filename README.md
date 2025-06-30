@@ -14,10 +14,10 @@
 
 **positiveBac.faa and negativeBac.faa** - Bacteriocin (positive) and non-bacteriocin (negative) FASTA sequences.
 
-**cvfs.py** -To implement cross-validation feature evaluation, please download the cvfs.csv and cvfs.py files and save them to your desired location. Then, open the command prompt. Next, copy the path where you saved the cvfs.py and cvfs.csv files and paste it into the command prompt. Finally, run the following command:cvfs.py -i cvfs.csv -o C2P5P0.4 -c 2 -e 5 -p 0.4
+**cvfe.py** -To implement cross-validation feature evaluation, please download the cvfe.csv and cvfe.py files and save them to your desired location. Then, open the command prompt. Next, copy the path where you saved the cvfs.py and cvfs.csv files and paste it into the command prompt. Finally, run the following command:cvfe.py -i cvfe.csv -o C2P5P0.4 -c 2 -e 5 -p 0.4.
 
 **hfe.ipynb** - To implement hypergraph-based feature evaluation, please use the jupyter notebook and this file.
 
-**pearsoncorrelation.csv** - CVS file for Pearson's correlation coefficient.
+**pearsoncorrelation.csv** - CSV file for Pearson's correlation coefficient.
 
 
