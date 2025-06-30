@@ -8,19 +8,15 @@
 
 **feature_extract.R** – Used to extract features from protein sequences.
 
-**pearson's_corr.R** - To perform Pearson correlation analysis.
+**pearsons_corr.R** - To perform Pearson correlation analysis.
 
 **shap.R** - To measure each feature contribution.
 
 **positiveBac.faa and negativeBac.faa** - Bacteriocin (positive) and non-bacteriocin (negative) FASTA sequences.
 
-Below the link is a Python script where I discretized data into categorical features:
+**cvfs.py** -To implement cross-validation feature evaluation, please download the cvfs.csv and cvfs.py files and save them to your desired location. Then, open the command prompt. Next, copy the path where you saved the cvfs.py and cvfs.csv files and paste it into the command prompt. Finally, run the following command:cvfs.py -i cvfs.csv -o C2P5P0.4 -c 2 -e 5 -p 0.4
 
-https://colab.research.google.com/drive/1CGNsH4fa3TgtCyd2-5U4v8ZgSQGD7-2j#scrollTo=vH0VWd3Zs_qd&line=4&uniqifier=1.
-
-**cvfe** - To implement cross-validation feature evaluation, please see the below link: https://github.com/mingren0130/CVFS_code.
-
-**hfe** - To implement hypergraph-based feature evaluation, please see the below link: https://github.com/hypper-team/hypper.
+**hfe.ipynb** - To implement hypergraph-based feature evaluation, please use the jupyter notebook and this file.
 
 **pearsoncorrelation.csv** - CVS file for Pearson's correlation coefficient.
 
