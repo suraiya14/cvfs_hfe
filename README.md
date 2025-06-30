@@ -1,10 +1,12 @@
-If you find our web application (https://shiny.tricities.wsu.edu/bacteriocin-prediction/) useful, please cite the following paper:
+**If you find our web application (https://shiny.tricities.wsu.edu/bacteriocin-prediction/) useful, please consider citing the following papers:**
 
 • Akhter, S. and Miller, J.H., BPAGS: A web application for bacteriocin prediction via feature evaluation using alternating decision tree, genetic algorithm, and linear support vector classifier. Frontiers in Bioinformatics, 3, p.1284705.
 
+• Akhter, S., & Miller, J. H., BaPreS: a software tool for predicting bacteriocins using an optimal set of features. BMC bioinformatics, 24(1), 313.
+
 Scripts and Datasets:
 
-feature_extract.R - To extract features from protein sequences.
+feature_extract.R – Used to extract features from protein sequences.
 
 pearson's_corr.R - To perform Pearson correlation analysis.
 
