@@ -80,9 +80,6 @@ Final model training and interpretation were conducted using **XGBoost**.
 | `pearsoncorrelation.csv` | Filtered feature set after correlation thresholding |
 | `selected_training_merged_file.csv` | Processed training dataset |
 | `selected_validation_merged_file.csv` | Processed validation dataset |
-| `cvfs.csv`, `cvfs.py` | Cross-validated feature selection inputs and Python script |
-| `hfe.ipynb` | Hypergraph-based feature evaluation notebook |
-| `shap.R` | XGBoost and SHAP-based interpretation script |
 
 ---
 
