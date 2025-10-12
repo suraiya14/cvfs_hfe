@@ -4,10 +4,6 @@ This repository provides the full workflow, datasets, and scripts used in the st
 **“Bacteriocin Prediction Through Cross-Validation-Based and Hypergraph-Based Feature Evaluation Approaches.”**  
 The project introduces an integrated framework combining **feature extraction**, **Pearson correlation filtering**, and **feature evaluation** using **cross-validation-based (CVFS)** and **hypergraph-based (HFE)** approaches to enhance bacteriocin prediction performance.
 
-<p align="center">
-  <img src="Screenshot%202025-10-05%20at%2010.22.44 PM.png" width="750">
-</p>
-
 ---
 
 ## 🧩 Workflow Overview
