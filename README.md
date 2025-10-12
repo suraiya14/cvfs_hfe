@@ -86,11 +86,11 @@ Explore and run predictions using the interactive web app:
 
 If you find our web application useful, please consider citing the following works:
 
-> **Akhter, S. and Miller, J.H.**  
+> **Akhter, S. and Miller, J.H., 2024**  
 > *BPAGS: A web application for bacteriocin prediction via feature evaluation using alternating decision tree, genetic algorithm, and linear support vector classifier.*  
 > *Frontiers in Bioinformatics*, 3, p.1284705.
 
-> **Akhter, S., & Miller, J.H.**  
+> **Akhter, S., & Miller, J.H., 2023**  
 > *BaPreS: a software tool for predicting bacteriocins using an optimal set of features.*  
 > *BMC Bioinformatics*, 24(1), 313.
 
